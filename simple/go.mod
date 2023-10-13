@@ -1,6 +1,6 @@
 module example.com/simple
 
-go 1.18
+go 1.20
 
 require (
 	github.com/aws/constructs-go/constructs/v10 v10.1.65
